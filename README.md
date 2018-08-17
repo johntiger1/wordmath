@@ -1,0 +1,2 @@
+# wordmath
+word vector arithmetic
